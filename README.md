@@ -2,32 +2,32 @@
 
 ![Desktop Screenshot](images/sc1.png)
 
-Este repositorio contiene mi configuración personalizada de entorno de escritorio en Arch Linux, enfocada en rendimiento, minimalismo y productividad mediante un enfoque *tiling window manager*.
+This repository contains my custom desktop environment configuration on Arch Linux, focused on performance, minimalism and productivity through a *tiling window manager* approach.
 
-### Componentes principales
+### Main components
 
-| Componente | Herramienta | Descripción |
+| Component | Tool | Description |
 | :--- | :--- | :--- |
 | **WM** | [Awesome](https://awesomewm.org) | Tiling Window Manager (Lua) |
-| **Terminal** | [Alacritty](https://alacritty.org) | Emulador acelerado por GPU |
-| **Panel** | [Polybar](https://github.com/polybar/polybar) | Barra de estado modular |
-| **Launcher** | [Rofi](https://github.com/davatorium/rofi) | Lanzador de aplicaciones y menús |
-| **Compositor** | [Picom](https://github.com/yshui/picom) | Transparencias y efectos suaves |
-| **Shell** | Zsh + P10k | Estética y productividad en consola |
+| **Terminal** | [Alacritty](https://alacritty.org) | GPU-accelerated emulator |
+| **Panel** | [Polybar](https://github.com/polybar/polybar) | Modular status bar |
+| **Launcher** | [Rofi](https://github.com/davatorium/rofi) | Application launcher and menus |
+| **Compositor** | [Picom](https://github.com/yshui/picom) | Transparencies and soft effects |
+| **Shell** | Zsh + P10k | Aesthetics and productivity on the console |
 
-### Capturas de pantalla
+### Screenshots
 
-#### Flujo de trabajo y Terminal
+#### Workflow and Terminal
 
-![Terminal y Flujo](images/sc2.png)
-*Vista de Alacritty y organización de ventanas en mosaico.*
+![Terminal and Flow](images/sc2.png)
+*Alacritty view and mosaic window arrangement.*
 
-#### Lanzador de aplicaciones (Rofi)
+#### Application launcher (Rofi)
 ![Rofi Screenshot](images/sc3.png)
 
-### Características
+### Features
 
-- Configuración minimalista y eficiente  
-- Flujo de trabajo basado en teclado  
-- Estética limpia con transparencias y efectos suaves  
-- Alta personalización del entorno  
+- Minimalist and efficient configuration
+- Keyboard-based workflow
+- Clean aesthetic with transparencies and smooth effects
+- Highly customizable environment
