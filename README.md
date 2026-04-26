@@ -10,15 +10,20 @@ Este repositorio contiene mi configuración personalizada de entorno de escritor
 | :--- | :--- | :--- |
 | **WM** | [Awesome](https://awesomewm.org) | Tiling Window Manager (Lua) |
 | **Terminal** | [Alacritty](https://alacritty.org) | Emulador acelerado por GPU |
-| **Panel** | [Polybar](https://github.com) | Barra de estado modular |
-| **Launcher** | [Rofi](https://github.com) | Lanzador de aplicaciones y menús |
-| **Compositor** | [Picom](https://github.com) | Transparencias y efectos suaves |
+| **Panel** | [Polybar](https://github.com/polybar/polybar) | Barra de estado modular |
+| **Launcher** | [Rofi](https://github.com/davatorium/rofi) | Lanzador de aplicaciones y menús |
+| **Compositor** | [Picom](https://github.com/yshui/picom) | Transparencias y efectos suaves |
 | **Shell** | Zsh + P10k | Estética y productividad en consola |
 
-### 📸 Capturas de pantalla
+### Capturas de pantalla
+
+#### Flujo de trabajo y Terminal
 
 ![Terminal y Flujo](images/sc2.png)
 *Vista de Alacritty y organización de ventanas en mosaico.*
+
+#### Lanzador de aplicaciones (Rofi)
+![Rofi Screenshot](images/sc3.png)
 
 ### Características
 
