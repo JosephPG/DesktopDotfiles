@@ -1,5 +1,7 @@
 ## Arch Linux Desktop Setup
 
+[Read this in Spanish / Leer en Español](./README.es.md)
+
 ![Desktop Screenshot](images/sc1.png)
 
 This repository contains my custom desktop environment configuration on Arch Linux, focused on performance, minimalism and productivity through a *tiling window manager* approach.
