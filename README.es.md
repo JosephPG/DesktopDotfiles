@@ -33,4 +33,6 @@ Este repositorio contiene mi configuración personalizada de entorno de escritor
 - Flujo de trabajo basado en teclado  
 - Estética limpia con transparencias y efectos suaves  
 - Alta personalización del entorno  
+- Controles de reproducción de YouTube Music (play/pause, siguiente, anterior) integrados en Polybar mediante `playerctl`
+- Indicador de actualizaciones pendientes para Arch Linux (`yay`) en la barra de estado
 

@@ -33,3 +33,5 @@ This repository contains my custom desktop environment configuration on Arch Lin
 - Keyboard-based workflow
 - Clean aesthetic with transparencies and smooth effects
 - Highly customizable environment
+- YouTube Music playback controls (play/pause, next, previous) integrated into Polybar via `playerctl`
+- Pending package updates indicator for Arch Linux (`yay`) in the status bar
